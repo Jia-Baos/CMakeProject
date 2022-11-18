@@ -1,0 +1,10 @@
+^D:\CMAKEPROJECT\CHAPTER1\DAY3\BUILD\CMAKEFILES\7BECB5A1D8F14072D83CC413D0DB6C42\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

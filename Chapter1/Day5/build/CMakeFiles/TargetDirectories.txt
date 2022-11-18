@@ -1,0 +1,2 @@
+D:/CMakeProject/Chapter1/Day5/build/CMakeFiles/ALL_BUILD.dir
+D:/CMakeProject/Chapter1/Day5/build/CMakeFiles/ZERO_CHECK.dir

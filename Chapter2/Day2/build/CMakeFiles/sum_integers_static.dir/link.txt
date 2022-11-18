@@ -1,0 +1,2 @@
+D:\MinGW\mingw64\bin\ar.exe qc libsum_integers_static.a CMakeFiles/sum_integers_static.dir/sum_integers.cpp.obj
+D:\MinGW\mingw64\bin\ranlib.exe libsum_integers_static.a

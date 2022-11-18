@@ -1,0 +1,4 @@
+D:/CMakeProject/Chapter1/Day1/build/CMakeFiles/hello-shared.dir
+D:/CMakeProject/Chapter1/Day1/build/CMakeFiles/main.dir
+D:/CMakeProject/Chapter1/Day1/build/CMakeFiles/edit_cache.dir
+D:/CMakeProject/Chapter1/Day1/build/CMakeFiles/rebuild_cache.dir

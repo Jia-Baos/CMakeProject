@@ -1,0 +1,14 @@
+D:/CMakeProject/Chapter1/Day2/build/CMakeFiles/edit_cache.dir
+D:/CMakeProject/Chapter1/Day2/build/CMakeFiles/rebuild_cache.dir
+D:/CMakeProject/Chapter1/Day2/build/src/CMakeFiles/main.dir
+D:/CMakeProject/Chapter1/Day2/build/src/CMakeFiles/edit_cache.dir
+D:/CMakeProject/Chapter1/Day2/build/src/CMakeFiles/rebuild_cache.dir
+D:/CMakeProject/Chapter1/Day2/build/src/message/CMakeFiles/message.dir
+D:/CMakeProject/Chapter1/Day2/build/src/message/CMakeFiles/edit_cache.dir
+D:/CMakeProject/Chapter1/Day2/build/src/message/CMakeFiles/rebuild_cache.dir
+D:/CMakeProject/Chapter1/Day2/build/src/hello/CMakeFiles/hello.dir
+D:/CMakeProject/Chapter1/Day2/build/src/hello/CMakeFiles/edit_cache.dir
+D:/CMakeProject/Chapter1/Day2/build/src/hello/CMakeFiles/rebuild_cache.dir
+D:/CMakeProject/Chapter1/Day2/build/external/CMakeFiles/myhello.dir
+D:/CMakeProject/Chapter1/Day2/build/external/CMakeFiles/edit_cache.dir
+D:/CMakeProject/Chapter1/Day2/build/external/CMakeFiles/rebuild_cache.dir

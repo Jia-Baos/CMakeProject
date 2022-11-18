@@ -1,0 +1,2 @@
+D:\MinGW\mingw64\bin\ar.exe qc D:\CMakeProject\Chapter1\Day2\lib\libmessage.a CMakeFiles/message.dir/message.cpp.obj
+D:\MinGW\mingw64\bin\ranlib.exe D:\CMakeProject\Chapter1\Day2\lib\libmessage.a

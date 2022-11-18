@@ -1,0 +1,5 @@
+D:/CMakeProject/Chapter1/Day3/install/bin/main.exe
+D:/CMakeProject/Chapter1/Day3/install/lib/hello-static.lib
+D:/CMakeProject/Chapter1/Day3/install/bin/hello-shared.dll
+D:/CMakeProject/Chapter1/Day3/install/include/hello.h
+D:/CMakeProject/Chapter1/Day3/install/doc/README.md

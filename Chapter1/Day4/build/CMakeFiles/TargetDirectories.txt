@@ -1,0 +1,7 @@
+D:/CMakeProject/Chapter1/Day3/build/CMakeFiles/INSTALL.dir
+D:/CMakeProject/Chapter1/Day3/build/CMakeFiles/ALL_BUILD.dir
+D:/CMakeProject/Chapter1/Day3/build/CMakeFiles/ZERO_CHECK.dir
+D:/CMakeProject/Chapter1/Day3/build/src/CMakeFiles/hello-static.dir
+D:/CMakeProject/Chapter1/Day3/build/src/CMakeFiles/hello-shared.dir
+D:/CMakeProject/Chapter1/Day3/build/src/CMakeFiles/main.dir
+D:/CMakeProject/Chapter1/Day3/build/src/CMakeFiles/INSTALL.dir

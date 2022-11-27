@@ -1,0 +1,2 @@
+D:\MinGW\mingw64\bin\ar.exe qc D:\CMakeProject\C++\lib\libclass.a CMakeFiles/class.dir/class.cpp.obj
+D:\MinGW\mingw64\bin\ranlib.exe D:\CMakeProject\C++\lib\libclass.a
